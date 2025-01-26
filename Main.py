@@ -6,4 +6,7 @@ firstAppearance = ""
 connections = [""]
 powers = [""]
 names  = [""]
+searchableItems = []
 userSearch = input("")
+if userSearch not in searchableItems:
+  print(errorMessage)
