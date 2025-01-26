@@ -1,0 +1,2 @@
+def citation():
+    return "\"Stan Lee.\" Encyclopædia Britannica, Encyclopædia Britannica, Inc., last updated December 28, 2024, https://www.britannica.com/biography/Stan-Lee.\n\"Rick Jones (character).\" Wikipedia, Wikimedia Foundation, 25 Jan. 2025, https://en.wikipedia.org/wiki/Rick_Jones_(character). Accessed 25 Jan. 2025.\n\"Jack Kirby.\" Encyclopædia Britannica, Encyclopædia Britannica, Inc., https://www.britannica.com/biography/Jack-Kirby. Accessed 25 Jan. 2025.\n"

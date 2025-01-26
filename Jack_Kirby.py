@@ -1,0 +1,2 @@
+def jackKirbyBasicInfo():
+    return "Jack Kirby (born Jacob Kurtzberg; August 28, 1917 – February 6, 1994) was a pioneering American comic book artist, writer, and editor. He co-created numerous iconic characters, including Captain America, the Fantastic Four, the Hulk, Thor, Iron Man, the X-Men, and the Black Panther. His dynamic art style and innovative storytelling have left a lasting impact on the comic book industry."
